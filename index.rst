@@ -19,8 +19,10 @@ Questo \ |STYLE3|\  è una \ |STYLE4|\  all’utilizzo del sistema e alla gestio
 
 .. toctree:: 
 
+    
+    gestione_contenuti.rst
         funzionalita_opentrasparenza.rst
-        gestione_contenuti.rst
+        editor_online.rst
     
 
 
