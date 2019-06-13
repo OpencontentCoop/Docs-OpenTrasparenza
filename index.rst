@@ -21,8 +21,8 @@ Questo \ |STYLE3|\  è una \ |STYLE4|\  all’utilizzo del sistema e alla gestio
 
     
     gestione_contenuti.rst
-        editor_online.rst
-        funzionalita_opentrasparenza.rst
+    editor_online.rst
+    funzionalita_opentrasparenza.rst
     
     
 
